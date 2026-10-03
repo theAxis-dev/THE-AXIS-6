@@ -1,0 +1,6 @@
+{
+  "name": "The Axis 6 - BMS",
+  "description": "The Axis 6 - Complete Boarding Management System for schools with student tracking, inspections, dorm tools, rosters, dispensary, and catering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
